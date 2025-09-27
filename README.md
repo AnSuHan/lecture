@@ -1,4 +1,5 @@
-# smartContract
-
+# [주관] 강의명
+ 
+[인천테크노파크] 블록체인칼리지 고급과정(재직자) 앱개발 프로세스 기획 20250920 : blockchain_advanced_appDev_20250920
 [CJ올리브네트웍스] AI 챗봇 과정 20250919 : AI_ChatBot_20250919
 
