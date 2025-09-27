@@ -1,0 +1,3 @@
+스윙투앱 메인 웹 사이트: http://www.swing2app.co.kr
+도움말 사이트: https://documentation.swing2app.co.kr/manual/v3/start
+카페 샘플앱 미리보기 주소: https://www.swing2app.co.kr/maker_view/app-preview?appId=e39b6a3f-e007-4e3d-b790-62c20cf674fe&version=2.4&app_string_id=
